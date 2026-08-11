@@ -1,6 +1,6 @@
 # Energieanalyse Deckungsbeitrag
 
-Portfolio-Projekt zur Demonstration praxisnaher Analysekompetenzen im Bereich Energiewirtschaft — mit Fokus auf Bilanzierung, Beschaffung und Deckungsbeitragskalkulation für SLP-Kunden.
+Portfolio-Projekt zur Demonstration praxisnaher Analysekompetenzen im Bereich Energiewirtschaft mit Fokus auf Bilanzierung, Beschaffung und Deckungsbeitragskalkulation für SLP-Kunden.
 
 Dieses Projekt präsentiert eine Analyse des Deckungsbeitrags eines Stadtwerks für die Versorgung seiner Kunden mit einem SLP (Standardlastprofil).
 
@@ -28,22 +28,28 @@ Das Sheet mit den Hauptberechnungen ist das Kunde-SLP-Tagesmodell.
 
 ### 1. Annahmen
 
-<img width="1368" height="357" alt="image" src="https://github.com/user-attachments/assets/100a4e43-97df-4043-b139-91cb684c95c9" />
+<img width="1508" height="386" alt="image" src="https://github.com/user-attachments/assets/fe8f3c1a-99e3-4045-ba49-8d8868d7911d" />
+
+
+
 
 Hier ist die Annahmen Liste für die gesamte Kalkulation.
 Die reBAP-Stress-Annahme wird durch die empirische Analyse in https://github.com/siddhi-s-kulkarni/spot-und-ausgleichsenergieanalyse bestätigt.
 
 
 ### 2. KPIs
+<img width="610" height="299" alt="image" src="https://github.com/user-attachments/assets/ae657edf-9aec-4be1-a820-1bda15a341ef" />
 
-<img width="490" height="270" alt="image" src="https://github.com/user-attachments/assets/068f6a80-100b-417f-ab44-10a799261744" />
 
 Hier sind die wichtigsten Ergebnisse zu sehen. Diese Ergebnisse orientieren sich an den Annahmen.
 
 
 ### 3. Sensitivität
 
-<img width="921" height="409" alt="image" src="https://github.com/user-attachments/assets/56d2ed1a-6568-48b3-b309-e40aa6b190fd" />
+<img width="1049" height="438" alt="image" src="https://github.com/user-attachments/assets/5450d619-b2a2-4616-89b2-32e59a17c5c1" />
+
+
+
 
 Die Sensitivitätsanalyse zeigt, in welchem Umfang der Deckungsbeitrag bei Veränderungen der Profilabweichung und des Stressaufschlags für reBAP beeinflusst wird.
 
