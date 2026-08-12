@@ -28,8 +28,7 @@ Das Sheet mit den Hauptberechnungen ist das Kunde-SLP-Tagesmodell.
 
 ### 1. Annahmen
 
-<img width="1508" height="386" alt="image" src="https://github.com/user-attachments/assets/fe8f3c1a-99e3-4045-ba49-8d8868d7911d" />
-
+<img width="1508" height="386" alt="image" src="https://github.com/user-attachments/assets/8621cf7c-69d1-4c3a-b134-582e85433bd2" />
 
 
 
