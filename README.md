@@ -46,7 +46,8 @@ Hier sind die wichtigsten Ergebnisse zu sehen. Diese Ergebnisse orientieren sich
 
 ### 3. Sensitivität
 
-<img width="1049" height="438" alt="image" src="https://github.com/user-attachments/assets/5450d619-b2a2-4616-89b2-32e59a17c5c1" />
+<img width="1049" height="438" alt="image" src="https://github.com/user-attachments/assets/1b151095-9b61-483e-bd9d-77813870a122" />
+
 
 
 
